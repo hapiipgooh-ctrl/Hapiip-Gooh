@@ -1,0 +1,6 @@
+{
+  "name": "BRENKNEWS - Wararka Soomaaliya iyo Caalamka",
+  "description": "BRENKNEWS - Wakaaladda wararka madaxa-bannaan ee Soomaaliya oo leh qolka daabacaadda mulkiilaha (CMS Studio), xiriirka shacabka, aftida dadweynaha, iyo wararkii ugu dambeeyay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
